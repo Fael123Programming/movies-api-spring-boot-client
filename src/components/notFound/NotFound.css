@@ -1,0 +1,28 @@
+.not-found-container {
+    width: 400;
+    height: 400;
+    text-align: center;
+    line-height: 200;
+    margin: auto;
+}
+
+.error-icon-container {
+    padding:0px;
+    margin: auto;
+    margin-top: 15%;
+    margin-bottom: 3%;
+    width:150px;
+}
+
+.error-icon {
+    padding: 0px;
+    margin: 0px;
+    color: red;
+    font-size: 5rem;
+    transition: 0.3s;
+}
+
+.error-icon:hover {
+    font-size: 6rem;
+    color:white;
+}
